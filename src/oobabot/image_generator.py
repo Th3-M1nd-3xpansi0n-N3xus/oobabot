@@ -43,8 +43,8 @@ class StableDiffusionImageView(discord.ui.View):
     # the exact same width as each other.  If they don't,
     # the buttons will shift to the left and right as the
     # labels are swapped.
-    LABEL_TRY_AGAIN = "Try Again"
-    LABEL_DRAWING = "Drawing.."
+    LABEL_TRY_AGAIN = "Repeat That Shit"
+    LABEL_DRAWING = "Manefesting.."
 
     def __init__(
         self,
